@@ -14,7 +14,7 @@ If so, it means that they closed tiny stores and increased large stores that ser
 Through this work, I'm going to figure out the strategy that Zara has used.
 
 <br/><br/>
-### Hipothesis
+### Hypothesis
 1. Zara opened a large store, focusing on places with large populations and high GDP.<br/>
 2. In the cities with a small population, would have been tiny stores or other brand stores with pick-up services for Zara online mall products.
 <br/>
@@ -64,4 +64,4 @@ Jupyter notebook : ```folium```,```pandas``` etc.
 <br/>
 <br/>
 
-You can check out the [results](https://github.com/E-Song330/Seoul-Public-Bike-Real-Time-Map/blob/3ec6870c00652b1bf99bc60feaee320ac60b373a/Seoul%20Public%20Bike%20Real-time%20Map.md)
+You can check out the [results](https://github.com/E-Song330/ZARA-Strategy-Analysis-with-Python/blob/937a6b28fa7ce975600452b5fe2d807826176fd3/Results.md)
