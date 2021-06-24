@@ -48,13 +48,13 @@ The project consisted of the following steps:
   * Visualize map with layer to filter the different type of store
   * Visualize map with the data of population and GDP
   * Visualize the correlation of datas
-<br/>
-<br/>
+
 4. Data Analysis
   * Figure out the relation between store and variables with diverse functions
   * Verify the hipothesis
 
-
+<br/>
+<br/>
 
 ## Stack
 
